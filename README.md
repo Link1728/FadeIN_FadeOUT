@@ -1,5 +1,5 @@
 # FadeIN_FadeOUT
-A C#, MonoGame project that allows an image to either fade-in or fade-out. 
+A C#, MonoGame project that allows an image to either fade-in and fade-out. 
 
 ![example](Reference/example.png)
 
